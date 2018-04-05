@@ -1,0 +1,92 @@
+ body 
+{
+	font-family: arial,sans-serif;
+	color: black;
+	margin: 0px;
+}
+
+a:link 
+{ 
+	text-decoration: none; 
+	color : black;
+} 
+
+a:hover
+{ 
+	text-decoration: none; 
+	color : red;
+} 
+
+section.centre 
+{ 
+
+	text-align: center;
+	width: 100%;
+	height: 92px;
+	padding-top: 200px;
+}
+
+.hd-menu1
+{
+	width: 100%;
+	height: 30px;
+}
+
+.hd-menu2
+{
+	width: 304px;
+	height: 30px;
+	float: right;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+.hd-menutexte
+{
+	padding-right: 15px;
+	width: 300px;
+	height: 30px;
+}
+
+.hd-texte1
+{
+	color: black;
+	width: 100%;
+}
+
+.hd-texte2
+{
+	color: black;
+	width: 30px;
+}
+
+.hd-menubouton
+{
+	background-color: black;
+	width: 50px;
+	height: 30px;
+}
+
+input
+{
+	width: 584px;
+	height: 44px;
+	font-size: 16px;
+	padding: 0 0 0 10px;
+}
+
+.button1
+{
+	background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 2px;
+    color: #757575;
+    cursor: default;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 11px 4px;
+    min-width: 54px;
+    padding: 0 16px;
+    text-align: center;
+}
