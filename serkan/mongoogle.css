@@ -1,0 +1,154 @@
+ body 
+{
+	font-family: arial,sans-serif;
+	color: black;
+	margin: 0px;
+}
+
+a:link 
+{ 
+	text-decoration: none; 
+	color : #666;
+} 
+
+a:hover
+{ 
+	text-decoration: none; 
+	color : red;
+} 
+
+ul
+{
+	float: right;
+} 
+
+li 
+{
+	padding-right: 15px;
+	display: inline;
+	font-size: 13px;
+} 
+
+li button
+{
+	margin-right: 30px;
+}
+
+a:hover
+{
+	opacity: .85;
+    text-decoration: underline;
+    color: black;
+}
+
+li button 
+{
+	border: 1px solid #4285f4;
+    font-weight: bold;
+    outline: none;
+    background: #4285f4;
+    background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+    color: white;
+    line-height: 28px;
+    padding: 0 12px;
+    border-radius: 2px;
+    font-size: 13px;
+}
+
+section.centre 
+{ 
+
+	text-align: center;
+	width: 100%;
+	height: 92px;
+	padding-top: 170px;
+}
+
+.hd-menu1
+{
+	width: 100%;
+	height: 30px;
+
+}
+
+
+input
+{
+	width: 584px;
+	height: 44px;
+	font-size: 16px;
+	padding: 0 0 0 10px;
+	margin-top: 28px;
+	box-shadow: 1px 1px 10px #aaa;
+    border: 0px;
+    background-image:url(http://files.softicons.com/download/toolbar-icons/free-sound-icons-by-design-bolts/png/256x256/MIC-3.png);
+	background-repeat:no-repeat;
+	background-size: 20px;
+	background-position-x: right;
+	background-position-y: center;
+}
+
+input:focus
+{
+	outline: none;
+}
+
+.buttoundubas
+{
+	padding-top: 18px;
+}
+
+.button1
+{
+	background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 2px;
+    color: #757575;
+    cursor: default;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 11px 4px;
+    min-width: 54px;
+    padding: 0 16px;
+    text-align: center;
+    line-height: 27px;
+}
+
+.buttoundubas button:hover
+{
+	border: 1px solid #c6c6c6;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    color: #222;
+}
+
+.monfooter
+{
+	position: fixed;
+    bottom: 0px;
+    min-width: 100%;
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    max-height: 83px;
+    color: #666;
+}
+
+.monfooter ul
+{
+	float: left;
+}
+
+
+.monfooter1
+{
+	width: 100%;
+	min-height: 40px;
+	border: 2px;
+}
+
+.monfooter2
+{
+    width:100%;
+    min-height: 40px;
+    border-top: 1px solid #e4e4e4;
+}

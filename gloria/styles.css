@@ -1,0 +1,145 @@
+#tab {
+    margin-left: 40px;
+}
+body {
+    font-family: 'arial';
+   }
+
+
+header {
+    display : flex;
+    justify-content: flex-end;}
+
+    
+    header ul li {
+    list-style: none;
+    display: inline;
+    margin: 0 10px; }
+    
+    
+    header ul li a {
+    text-decoration: none;
+    color: #222;
+    font-size: 13px; }
+    
+    header ul li a i{
+    font-size: 30px;
+    color: #727272. }
+    
+    
+    
+    section{
+        display: flex;
+        align-items : center;
+        justify-content: center;
+        flex-direction: column;
+        margin:10 auto;
+        background: white;
+         }
+    
+    vertical-center { position: absolute;
+        top: 30%;}
+    
+    #form, #buttons, #logo {
+        display: flex;
+        justify-content: center;
+        }
+    
+    
+    #logo { margin-bottom: 15px}
+    
+    
+    form input {
+        min-width: 584px;
+        height: 22px;
+        box-shadow: 0 2px 2px 0
+        rgba(0,0,0,0,16), 0 0 0 1px
+        rgba(0,0,0,0,08);
+        font : 16px; 
+        
+        #search-buttons {
+            margin: 32px 0;
+          }
+        
+        #search-buttons button {
+            background: #f2f2f2
+                color: #757575
+                border: 1px solid #c6c6c6
+                font-size: 13px; 
+            font-weight: bold;
+            margin: 22px 10px;
+            padding: 0 16px;
+            height: 34px
+            min width 54px;}
+        
+        #search-buttons button: hover { }
+        
+        #availability {
+             margin-top : -15px
+             font-size: small;}
+        
+        #availability p a {
+            text-decoration: none;
+            color: #1a0dab;}
+        
+        #availability p a: hover {
+                         text-decoration:
+                         underline;
+            
+            
+            
+footer   {
+position: fixed;
+width: 100%
+left: 0;
+bottom: 0;
+background: #f2f2f2;
+border-top: 1px solid #e4e4e4;
+line-height: 40px;
+font-size: small;
+       }
+            
+            
+            
+            
+footer ul il { list-style: none;
+    display: inline;
+}
+footer ul il a { color: #222;
+    text-decoration: none
+    }
+            
+            
+            footer ul li a i{
+            font-size: 30px;
+            color: #B5b5b5; }
+            
+            
+            #right: { float: left;   }
+
+        
+    
+    
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto;
+    background: green;
+}
+
+.middle-section {
+    position: absolute;
+    top: 40%;
+}
+
+#form, #buttons {
+    display: flex;
+    justify-content: center;
+}
+
+#buttons button {
+    background: #f2f2f2;
+    color: #757575;
+    border: 1px solid #f2f2f2;
+    font-size: 13px;
+    font-weight: bold

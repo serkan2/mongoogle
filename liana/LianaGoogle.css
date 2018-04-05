@@ -1,0 +1,42 @@
+body{
+    
+    font-family: 'arial';    
+}
+
+/*HEADER*/
+
+.Liana {
+    display:flex;
+        justify-content:center;
+        flex-direction: ;
+}
+.middle_section {
+    display:flex;
+        justify-content:center;
+    margin-top: 200px;
+    flex-direction: column;
+}
+    
+.recherche 
+{
+    width: 420px;
+    height: 20px;
+}
+
+
+        
+#google 
+{
+    height: 100px;
+    width: 300px;
+}
+header {
+    
+    display: flex;
+    justify-content:flex-end;
+
+}
+    
+
+    
+    
